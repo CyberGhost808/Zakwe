@@ -238,3 +238,7 @@ form input{
 .Menu, .Meenu, .MeEnu{
     cursor: pointer;
 }
+
+i{
+    font-size: 22px;
+}
